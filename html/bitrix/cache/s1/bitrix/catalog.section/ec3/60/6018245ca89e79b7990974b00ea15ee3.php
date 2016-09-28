@@ -1,0 +1,7 @@
+<?
+if($INCLUDE_FROM_CACHE!='Y')return false;
+$datecreate = '001475067394';
+$dateexpire = '001475070994';
+$ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{s:8:"arResult";a:8:{s:2:"ID";s:2:"40";s:15:"NAV_CACHED_DATA";N;s:16:"UF_BROWSER_TITLE";N;s:4:"NAME";s:35:"Бонусные комплекты";s:17:"IBLOCK_SECTION_ID";N;s:16:"IPROPERTY_VALUES";a:0:{}s:16:"BACKGROUND_IMAGE";b:0;s:19:"USE_CATALOG_BUTTONS";a:0:{}}s:18:"templateCachedData";a:5:{s:13:"additionalCSS";s:94:"/bitrix/components/bitrix/catalog/templates/.default/bitrix/catalog.section/.default/style.css";s:12:"additionalJS";s:94:"/bitrix/components/bitrix/catalog/templates/.default/bitrix/catalog.section/.default/script.js";s:9:"frameMode";b:1;s:16:"component_epilog";a:5:{s:10:"epilogFile";s:105:"/bitrix/components/bitrix/catalog/templates/.default/bitrix/catalog.section/.default/component_epilog.php";s:12:"templateName";s:8:".default";s:12:"templateFile";s:97:"/bitrix/components/bitrix/catalog/templates/.default/bitrix/catalog.section/.default/template.php";s:14:"templateFolder";s:84:"/bitrix/components/bitrix/catalog/templates/.default/bitrix/catalog.section/.default";s:12:"templateData";b:0;}s:8:"__NavNum";i:1;}}}';
+return true;
+?>

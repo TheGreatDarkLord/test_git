@@ -1,0 +1,6 @@
+2016-09-28 13:15:44 -  - exec CUpdateClient::GetUpdatesList
+2016-09-28 13:15:44 -  - exec CUpdateClient::CollectRequestData
+2016-09-28 13:15:44 -  - LICENSE_KEY=X&lang=s1&SUPD_VER=16.0.12&VERSION=16.5.4&TYPENC=D&SUPD_STS=1&SUPD_URS=0&SUPD_URSA=1&SUPD_DBS=MYSQL&XE=N&CLIENT_SITE=vamba.biz&CHHB=vamba.biz&CSAB=10.10.10.108&CANGZIP=Y&CLIENT_PHPVER=5.4.45&stable=Y&NGINX=Y&rerere=Y&bitm_main=16.5.4&bitm_perfmon=16.0.0&bitm_clouds=16.0.1&bitm_fileman=16.5.4&bitm_highloadblock=16.0.2&bitm_compression=16.0.0&bitm_socialservices=16.5.4&bitm_seo=16.0.3&bitm_search=16.0.0&bitm_iblock=16.5.2&bitm_bitrixcloud=16.0.0&bitm_translate=14.5.0&bitl_en=&bitl_ru=&bith_ru=&bith_en=&SUPD_SRS=RU&SUPD_CMP=N&SALE_15=Y
+2016-09-28 13:15:44 -  - exec CUpdateClient::GetHTTPPage
+2016-09-28 13:15:44 -  - TIME GetUpdatesList(request) 0.328 sec
+2016-09-28 13:15:44 -  - exec CUpdateClient::ParseServerData

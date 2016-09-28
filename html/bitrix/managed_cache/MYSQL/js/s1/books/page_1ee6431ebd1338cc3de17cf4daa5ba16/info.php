@@ -1,0 +1,1 @@
+<? $arFilesInfo = array( 'FILES' => array("/bitrix/components/bitrix/iblock.tv/templates/.default/script.js" => "147505475825927",), 'CUR_SEL_CNT' => '0', 'CUR_IE_CNT' => '0'); ?>
