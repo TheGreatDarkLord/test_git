@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001475067339';
-$dateexpire = '001475070939';
+$datecreate = '001475134064';
+$dateexpire = '001475137664';
 $ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{s:8:"arResult";a:2:{s:5:"ITEMS";a:2:{i:0;a:12:{s:2:"ID";s:3:"328";s:4:"NAME";s:86:"Как организовано управление правами в системе?";s:9:"IBLOCK_ID";s:2:"11";s:17:"IBLOCK_SECTION_ID";s:2:"87";s:17:"PREVIEW_TEXT_TYPE";s:4:"html";s:12:"PREVIEW_TEXT";s:2150:"В системе &quot;Битрикс: Управление сайтом&quot; поддерживается два уровня разграничения прав доступа:
 <br />
 1) <b>доступ непосредственно на файлы</b>

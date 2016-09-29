@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001475067108';
-$dateexpire = '001475070708';
+$datecreate = '001475134036';
+$dateexpire = '001475137636';
 $ser_content = 'a:2:{s:7:"CONTENT";s:3670:"<div class="bx_sitemap"><ul class="bx_sitemap_ul">
 	<li id="bx_1847241719_17"><h2 class="bx_sitemap_li_title"><a href="/e-store/xml_catalog/17/">Обувь <span>(77)</span></a></h2>
 		<ul>

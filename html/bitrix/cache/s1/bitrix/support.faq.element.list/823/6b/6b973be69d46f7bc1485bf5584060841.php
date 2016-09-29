@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001475067340';
-$dateexpire = '001475070940';
+$datecreate = '001475134021';
+$dateexpire = '001475137621';
 $ser_content = 'a:2:{s:7:"CONTENT";s:0:"";s:4:"VARS";a:2:{s:8:"arResult";a:2:{s:5:"ITEMS";a:4:{i:0;a:12:{s:2:"ID";s:3:"326";s:4:"NAME";s:108:"Какова последовательность действий при оформлении заказа?";s:9:"IBLOCK_ID";s:2:"11";s:17:"IBLOCK_SECTION_ID";s:2:"89";s:17:"PREVIEW_TEXT_TYPE";s:4:"html";s:12:"PREVIEW_TEXT";s:432:"Ссылки на оформление закза можно найти на нашем сайте в разделе &quot;Купить&quot;: <a href="http://www.bitrixsoft.ru/buy/" class="txttohtmllink">http://www.bitrixsoft.ru/buy/</a> и в разделе Купить -&gt; Для партнеров:
 <br />
 <a href="http://www.bitrixsoft.ru/buy/partners.php" class="txttohtmllink">http://www.bitrixsoft.ru/buy/partners.php</a>";s:16:"DETAIL_TEXT_TYPE";s:4:"text";s:11:"DETAIL_TEXT";N;s:10:"CREATED_BY";s:1:"1";s:4:"SORT";s:3:"500";s:9:"EDIT_LINK";N;s:11:"DELETE_LINK";N;}i:1;a:12:{s:2:"ID";s:3:"325";s:4:"NAME";s:130:"Система партнерских скидок распространяется на все редакции продукта?";s:9:"IBLOCK_ID";s:2:"11";s:17:"IBLOCK_SECTION_ID";s:2:"89";s:17:"PREVIEW_TEXT_TYPE";s:4:"html";s:12:"PREVIEW_TEXT";s:207:"

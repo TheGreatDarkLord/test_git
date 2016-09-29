@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001475067108';
-$dateexpire = '001475070708';
+$datecreate = '001475134036';
+$dateexpire = '001475137636';
 $ser_content = 'a:2:{s:7:"CONTENT";s:11646:"<div class="bx_catalog_top_home col3 bx_blue">
 	<div class="bx_catalog_item double"><div class="bx_catalog_item_container" id="bx_2662763187_273">
 		<a id="bx_2662763187_273_pict" href="/e-store/xml_catalog/35/273/" class="bx_catalog_item_images" style="background-image: url(\'/bitrix/components/bitrix/catalog/templates/.default/bitrix/catalog.top/.default/images/no_photo.png\')" title="Ящик для транспортировки продуктов">

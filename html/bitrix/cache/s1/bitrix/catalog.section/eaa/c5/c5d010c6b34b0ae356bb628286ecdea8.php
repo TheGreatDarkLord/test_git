@@ -1,8 +1,8 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001475067159';
-$dateexpire = '001475070759';
-$ser_content = 'a:2:{s:7:"CONTENT";s:17644:"<div class="bx-section-desc bx_blue">
+$datecreate = '001475133996';
+$dateexpire = '001475137596';
+$ser_content = 'a:2:{s:7:"CONTENT";s:17761:"<div class="bx-section-desc bx_blue">
 	<p class="bx-section-desc-post"></p>
 </div>
 <div class="bx_catalog_list_home col3 bx_blue">
@@ -59,11 +59,11 @@ BX.message({
 	
 					<span class="nav-current-page">&nbsp;1&nbsp;</span>&nbsp;
 					
-					<a href="/e-store/books/13/?PAGEN_1=2">2</a>&nbsp;
+					<a href="/e-store/books/13/?action=SUBSCRIBE_PRODUCT&amp;id=73&amp;PAGEN_1=2">2</a>&nbsp;
 					
 
-			|&nbsp;<a href="/e-store/books/13/?PAGEN_1=2">&raquo;</a>&nbsp;|&nbsp;
-		<a href="/e-store/books/13/?PAGEN_1=2">Конец</a>&nbsp;
+			|&nbsp;<a href="/e-store/books/13/?action=SUBSCRIBE_PRODUCT&amp;id=73&amp;PAGEN_1=2">&raquo;</a>&nbsp;|&nbsp;
+		<a href="/e-store/books/13/?action=SUBSCRIBE_PRODUCT&amp;id=73&amp;PAGEN_1=2">Конец</a>&nbsp;
 	
 
 
