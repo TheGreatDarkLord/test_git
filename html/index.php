@@ -4,7 +4,7 @@ $APPLICATION->SetPageProperty("title", "Демонстрационная вер�
 $APPLICATION->SetPageProperty("NOT_SHOW_NAV_CHAIN", "Y");
 $APPLICATION->SetTitle("Каталог книг");
 ?> 
-888888888888889999999999
+!!!!!!!!!!!!!!!!!!!!
 <?$APPLICATION->IncludeComponent(
 	"bitrix:catalog.section.list",
 	"",
