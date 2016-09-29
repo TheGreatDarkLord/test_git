@@ -4500,3 +4500,4 @@
 89.169.228.204 - - [29/Sep/2016:15:40:05 +0300] "GET /git_push_agent.php HTTP/1.1" 200 11700 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36"
 89.169.228.204 - - [29/Sep/2016:15:40:13 +0300] "GET / HTTP/1.1" 200 19544 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36"
 89.169.228.204 - - [29/Sep/2016:15:40:13 +0300] "GET /bitrix/admin/get_start_menu.php?lang=ru&back_url_pub=%2F&sessid=37e25a9bf85b96fd6b4b4a7e37693cb0 HTTP/1.1" 200 5744 "http://vamba.biz/" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36"
+89.169.228.204 - - [29/Sep/2016:15:40:38 +0300] "GET /git_push_agent.php HTTP/1.1" 200 794 "-" "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.116 Safari/537.36"
