@@ -1,7 +1,7 @@
 <?
 if($INCLUDE_FROM_CACHE!='Y')return false;
-$datecreate = '001475142867';
-$dateexpire = '001475146467';
+$datecreate = '001475152813';
+$dateexpire = '001475156413';
 $ser_content = 'a:2:{s:7:"CONTENT";s:10159:"<div class="bx_catalog_top_home col3 bx_blue">
 	<div class="bx_catalog_item double"><div class="bx_catalog_item_container" id="bx_2662763187_77">
 		<a id="bx_2662763187_77_pict" href="/e-store/books/12/77/" class="bx_catalog_item_images" style="background-image: url(\'/upload/iblock/f8c/balmer.gif\')" title="Этот негодяй Балмер, или Человек, который управляет &quot;Майкрософтом&quot; (пер. с англ. Клигман И.)">
